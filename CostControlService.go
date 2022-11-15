@@ -1,6 +1,6 @@
 package CostControlSDK
 
-import "github.com/nurture-farm/CostControl/models"
+import "github.com/nurture-farm/costcontrol/models"
 
 type CostControlService interface {
 	Configure(config models.Config)

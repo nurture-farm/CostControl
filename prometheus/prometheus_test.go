@@ -1,7 +1,7 @@
 package prometheus
 
 import (
-	"github.com/nurture-farm/CostControl/models"
+	"github.com/nurture-farm/costcontrol/models"
 	"testing"
 )
 

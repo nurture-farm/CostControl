@@ -2,9 +2,9 @@ package cache
 
 import (
 	"errors"
-	"github.com/nurture-farm/CostControl/grafana"
-	"github.com/nurture-farm/CostControl/models"
-	"github.com/nurture-farm/CostControl/util"
+	"github.com/nurture-farm/costcontrol/grafana"
+	"github.com/nurture-farm/costcontrol/models"
+	"github.com/nurture-farm/costcontrol/util"
 	"strings"
 	"time"
 )

@@ -3,9 +3,9 @@ package grafana
 import (
 	"bytes"
 	"encoding/json"
-	"github.com/nurture-farm/CostControl/httpclient"
-	"github.com/nurture-farm/CostControl/models"
-	"github.com/nurture-farm/CostControl/util"
+	"github.com/nurture-farm/costcontrol/httpclient"
+	"github.com/nurture-farm/costcontrol/models"
+	"github.com/nurture-farm/costcontrol/util"
 	"io/ioutil"
 	"net/http"
 )

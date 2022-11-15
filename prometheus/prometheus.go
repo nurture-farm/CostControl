@@ -1,8 +1,8 @@
 package prometheus
 
 import (
-	"github.com/nurture-farm/CostControl/models"
-	"github.com/nurture-farm/CostControl/util"
+	"github.com/nurture-farm/costcontrol/models"
+	"github.com/nurture-farm/costcontrol/util"
 	"github.com/prometheus/client_golang/prometheus"
 	v "gopkg.in/go-playground/validator.v9"
 	m "k8s.io/utils/keymutex"

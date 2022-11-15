@@ -1,7 +1,7 @@
 package httpclient
 
 import (
-	"github.com/nurture-farm/CostControl/util"
+	"github.com/nurture-farm/costcontrol/util"
 	"net/http"
 )
 

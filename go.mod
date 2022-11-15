@@ -1,4 +1,4 @@
-module github.com/nurture-farm/CostControl
+module github.com/nurture-farm/costcontrol
 
 go 1.18
 

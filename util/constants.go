@@ -1,6 +1,6 @@
 package util
 
-import "github.com/nurture-farm/CostControl/models"
+import "github.com/nurture-farm/costcontrol/models"
 
 const (
 	GRAFANA_GET_RULES                  = "/api/ruler/grafana/api/v1/rules/"

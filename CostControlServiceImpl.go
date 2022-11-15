@@ -2,11 +2,11 @@ package CostControlSDK
 
 import (
 	"errors"
-	"github.com/nurture-farm/CostControl/cache"
-	"github.com/nurture-farm/CostControl/grafana"
-	"github.com/nurture-farm/CostControl/models"
-	ps "github.com/nurture-farm/CostControl/prometheus"
-	"github.com/nurture-farm/CostControl/util"
+	"github.com/nurture-farm/costcontrol/cache"
+	"github.com/nurture-farm/costcontrol/grafana"
+	"github.com/nurture-farm/costcontrol/models"
+	ps "github.com/nurture-farm/costcontrol/prometheus"
+	"github.com/nurture-farm/costcontrol/util"
 )
 
 func InitExpense(expense models.Expense) (bool, error) {
